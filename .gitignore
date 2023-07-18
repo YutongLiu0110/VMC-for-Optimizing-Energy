@@ -1,0 +1,3 @@
+# Project exclude paths
+/modules/cloudsim/target/
+/modules/cloudsim-examples/target/
